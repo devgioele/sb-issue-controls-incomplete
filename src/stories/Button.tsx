@@ -22,7 +22,7 @@ type ButtonProps = {
    * Optional click handler
    */
   onClick?: () => void;
-};
+} & Record<string, unknown>;
 
 /**
  * Primary UI component for user interaction
