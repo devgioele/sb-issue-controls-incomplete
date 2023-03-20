@@ -4,7 +4,7 @@
   This is project generated to serve as a reproduction starter for Storybook.
 </p>
 
-<a href="https://stackblitz.com/github/devgioele/sb-issue-controls-incomplete">
+<a href="https://stackblitz.com/github/devgioele/sb-issue-controls-incomplete?file=src%2Fstories%2FButton.tsx">
 View it in Stackblitz
 </a>
 
